@@ -31,3 +31,5 @@ Thumbs.db
 # Optional caches
 .npm/
 .eslintcache
+
+/src/generated/prisma
